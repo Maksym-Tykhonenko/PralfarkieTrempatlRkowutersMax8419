@@ -71,11 +71,11 @@ export const ShrineRoot = () => {
   const INITIAL_URL = `https://bright-zone-core.site/`;
   const URL_IDENTIFAIRE = `04VYfPqj`;
 
-  const FATCH_TO_OUR_BACK = `https://lean-vault-sys.site/`;
+  const FATCH_TO_OUR_BACK = `https://brisk-core-box.site/`;
 
   const ONESIGNAL_KEY = `56ccca99-6399-4982-9b1e-fb06e153f92d`;
 
-  const TARGET_DATA = new Date(2026, 4, 3, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 30, 8, 8, 0);
 
 useEffect(() => {
   const fetchData = async () => {

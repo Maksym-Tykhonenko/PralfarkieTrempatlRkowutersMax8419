@@ -32,7 +32,7 @@ const ProductScreen = ({ navigation, route }) => {
   const INITIAL_URL = `https://bright-zone-core.site/`;
   const URL_IDENTIFAIRE = `04VYfPqj`;
 
-  const FATCH_TO_OUR_BACK = `https://lean-vault-sys.site/`;
+  const FATCH_TO_OUR_BACK = `https://brisk-core-box.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);
